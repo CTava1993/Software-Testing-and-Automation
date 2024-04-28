@@ -1,6 +1,6 @@
 # Software-Testing-and-Automation-Prompt
 
-==============================================================================
+======================================================================
 
 ~How can I ensure that my code, program, or software is functional and secure?
 
